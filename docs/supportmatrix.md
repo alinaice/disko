@@ -6,4 +6,5 @@
 
 ## Support Matrix
 
-TODO: Populate this
+Our matrix room is currently hosted on [#disko:nixos.org] (https://matrix.to/#/#disko:nixos.org).
+Feel free to join and talk to us!
